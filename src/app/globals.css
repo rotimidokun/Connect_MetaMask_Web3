@@ -25,3 +25,13 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+button {
+  font-size: 20px;
+  padding: 8px 24px;
+  margin: 16px auto;
+  border-radius: 16px;
+  background-color: red;
+  color: white;
+  font-weight: medium;
+}
